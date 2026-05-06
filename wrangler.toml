@@ -1,8 +1,9 @@
 name = "ai2e-api"
 main = "index.js"
 compatibility_date = "2026-05-06"
+workers_dev = true
 
 [[d1_databases]]
 binding = "DB"
-database_name = "airdropzone-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_name = "ai2e_db"
+database_id = "5b88a817-ad82-4baf-8994-2ade8299408d"
