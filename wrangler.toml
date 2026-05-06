@@ -7,3 +7,4 @@ workers_dev = true
 binding = "DB"
 database_name = "ai2e_db"
 database_id = "5b88a817-ad82-4baf-8994-2ade8299408d"
+
