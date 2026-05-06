@@ -1,4 +1,4 @@
-// ============================================
+ // ============================================
 // AirDrop Zone — Cloudflare Worker API
 // Database: Cloudflare D1 (5GB free)
 // Auth: Email/Password + Web3 Wallet
